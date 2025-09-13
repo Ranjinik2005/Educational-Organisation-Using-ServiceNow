@@ -47,4 +47,5 @@ It simplifies the **admission process, student details management, and result ge
 ## Conclusion
 The project “**Educational Organisation Using ServiceNow**” demonstrates how digital transformation can enhance efficiency, accuracy, and user experience in educational institutions. It streamlines admissions, securely stores records, and automates results—making the process **faster, transparent, and error-free**.
 
+
 ---
